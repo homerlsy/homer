@@ -7,4 +7,8 @@ master -- 11:19
 testing branch---service
 add some comments
 server fix diverge from master again
+<<<<<<< HEAD
 master new task
+=======
+issue 0 to resolve now
+>>>>>>> issue 0 resolved
