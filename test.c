@@ -11,4 +11,8 @@ server fix diverge from master again
 master new task
 =======
 issue 0 to resolve now
+<<<<<<< HEAD
 >>>>>>> issue 0 resolved
+=======
+add some test cases
+>>>>>>> add test for issue 0 fix
