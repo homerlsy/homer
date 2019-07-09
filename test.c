@@ -6,5 +6,5 @@ fixing0
 fixing1
 new commit one
 1
-3
+6
 5
